@@ -1,0 +1,24 @@
+*{
+    padding:0px;
+    margin:0px;
+
+}
+
+header {
+    font-family: 'Langar', cursive;
+    background-color: #111;
+    padding-bottom: 120px;
+}
+
+h1 span{
+    color:lime;
+}
+
+
+p{
+    box-sizing: border-box;
+    font-family: 'Langar', cursive;
+    color:lime;
+    background-color: #111;
+    padding-left:40%;
+}
